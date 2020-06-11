@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "112832595433",
+    "firebase_url": "https://taskmassages.firebaseio.com",
+    "project_id": "taskmassages",
+    "storage_bucket": "taskmassages.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112832595433:android:62d8069514bf313bd73778",
+        "android_client_info": {
+          "package_name": "com.example.taskmassages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112832595433-8n5hs0eutlpdhkssr0lto0c837ip14rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqOBuPdUr0bhpl0qBocYcFPO-0un23Ab0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112832595433-8n5hs0eutlpdhkssr0lto0c837ip14rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
